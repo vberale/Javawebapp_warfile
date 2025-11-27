@@ -6,6 +6,7 @@
   <h3> Learn heare and lead any where</h3>
   <h3> welcome to pune</h3>
   <h3> consistency is very important to success</h3>
-  <h3> Hardwork is also important to get success</3>
+  <h3> Hardwork is also important to get success</h3>
+  <h3> Troubleshooting is very important to find RCA</h3>
 </body>
 </html>
